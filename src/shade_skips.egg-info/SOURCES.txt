@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/shade-skips/__init__.py
+src/shade-skips/shade-skips.py
+src/shade_skips.egg-info/PKG-INFO
+src/shade_skips.egg-info/SOURCES.txt
+src/shade_skips.egg-info/dependency_links.txt
+src/shade_skips.egg-info/top_level.txt
